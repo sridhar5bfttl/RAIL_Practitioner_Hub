@@ -1,6 +1,7 @@
 # 🏗️ RAIL Practitioner Hub: Energy & Oil/Gas Edition
 
 > **Empowering Energy Practitioners with Realtime AI Learning.**
+---
 
 Welcome to the **RAIL Practitioner Hub**. This repository is a dedicated learning environment designed to showcase the transformative power of the **RAIL (Realtime AI Learning)** framework in the high-stakes world of Energy and Oil & Gas infrastructure.
 
